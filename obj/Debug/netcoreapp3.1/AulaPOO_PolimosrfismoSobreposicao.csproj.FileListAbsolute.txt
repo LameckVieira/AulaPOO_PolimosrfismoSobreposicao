@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.exe
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.deps.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobreposicao.genruntimeconfig.cache
